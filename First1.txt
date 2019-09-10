@@ -1,7 +1,3 @@
 hbdsbhdskbdskbdskbdskbds
-<<<<<<< HEAD
 dsihbdsidsidsdjdsjndf
 dsnjdsjnds
-=======
-dsihbdsidsids
->>>>>>> master
